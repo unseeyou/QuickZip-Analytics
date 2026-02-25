@@ -1,7 +1,6 @@
 from constants import app
 
 
-
 @app.route("/")
 def index():
     return "under construction"
